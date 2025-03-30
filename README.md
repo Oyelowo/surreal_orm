@@ -1,6 +1,6 @@
 <!-- [Book](https://oyelowo.github.io/surreal_orm) | [doc.rs](https://docs.rs/surreal_orm/latest/surreal-rm/) | [Discord](https://discord.gg/xuA39Zpb) -->
 
-[Book](https://oyelowo.github.io/surreal_orm) | [Discord](https://discord.gg/xuA39Zpb)
+[Book](https://oyelowo.github.io/surreal_orm) | [Discord](https://discord.gg/Vrkq8KhGwN)
 
 [![surreal_orm](https://github.com/Oyelowo/surreal_orm/actions/workflows/rust.yaml/badge.svg)](https://github.com/Oyelowo/surreal_orm/actions/workflows/rust.yaml)
 [![cleanup old images](https://github.com/Oyelowo/modern-distributed-app-template/actions/workflows/delete-old-images.yaml/badge.svg)](https://github.com/Oyelowo/modern-distributed-app-template/actions/workflows/delete-old-images.yaml)
